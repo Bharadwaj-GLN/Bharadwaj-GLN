@@ -1,0 +1,1 @@
+This folder contains files corresponding to the second module, Numerical Analysis, in the MSc. in AI program of Uni Essex.
